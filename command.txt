@@ -1,0 +1,6 @@
+ls: liet ke cac file va folder trong thu muc hien tai
+mkdir <ten thu muc>: tao ra mot thu muc trong
+touch <ten file> : tao file
+cd <ten thu muc> : truy cap vao thu muc
+cat <ten file> : xem noi dung file
+
