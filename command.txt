@@ -3,4 +3,4 @@ mkdir <ten thu muc>: tao ra mot thu muc trong
 touch <ten file> : tao file
 cd <ten thu muc> : truy cap vao thu muc
 cat <ten file> : xem noi dung file
-
+vim : tạo môi trường ảo
